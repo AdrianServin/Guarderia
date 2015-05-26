@@ -1,9 +1,8 @@
 {
-  "Nombre":[{"Nombre":"Andres Yebra Cervantes"}],
-  "Edad":[{"Edad":"5"}],
-  "Sangre":[{"Sangre":"0-"}],
-  "Auxiliar":[{"Auxiliar":"Erika Rodriguez Frausto"}],
-  "Cuidados":[{"Cuidados":"Ninguno"}],
-  "Numero":[{"Numero":"6862105281"}]
-  
+  "Nombre":"Andres Yebra Cervantes",
+  "Edad":"5",
+  "Sangre":"0-",
+  "Auxiliar":"Erika Rodriguez Frausto",
+  "Cuidados":"Ninguno",
+  "Numero":6862105281"
 }
